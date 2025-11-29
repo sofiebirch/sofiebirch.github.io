@@ -12,3 +12,7 @@ ul {
 li {
   margin-left: 20px;
 }
+
+.dark-mode {
+  background-color: #e6e0f8;
+}
